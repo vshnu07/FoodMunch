@@ -1,3 +1,3 @@
 # FoodMunch
 ## Live Website
-(foodmunchvshnu.ccbp.tech)
+(https://foodmunchvshnu.ccbp.tech/)
